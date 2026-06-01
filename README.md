@@ -106,11 +106,6 @@ Example:
 
 ## Project Structure
 ```
-JavaProject/
-├── CircuitLogicGame.java      # Main game class with all logic
-├── README.md                   # This file
-└── .gitignore                  # Git ignore rules
-```
 
 ### Key Classes & Methods
 
